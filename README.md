@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm algfwq</h1>
+<h1 align="center">Hi, I'm algfwq (奥利给！)</h1>
 
 <p align="center">
   <b>Go / Python / TypeScript / Vue</b><br />
@@ -7,13 +7,14 @@
 
 <p align="center">
   <a href="mailto:3104374883@qq.com"><img src="https://img.shields.io/badge/Mail-3104374883%40qq.com-0078D4?style=flat-square" alt="Email" /></a>
+  <a href="https://afdian.com/a/algfwq"><img src="https://img.shields.io/badge/Afdian-Support%20me%20%2F%20%E6%AC%A2%E8%BF%8E%E6%89%93%E8%B5%8F-946ce6?style=flat-square" alt="Afdian" /></a>
   <a href="https://github.com/algfwq"><img src="https://komarev.com/ghpvc/?username=algfwq&amp;style=flat-square&amp;color=0e75b6" alt="Profile views" /></a>
   <a href="https://github.com/algfwq?tab=repositories"><img src="https://img.shields.io/github/stars/algfwq?affiliations=OWNER&amp;style=flat-square&amp;label=Owner%20Stars&amp;logo=github" alt="GitHub owner stars" /></a>
 </p>
 
 ## About Me
 
-I'm a developer who likes turning everyday ideas into working tools. My projects often sit at the intersection of desktop software, automation, AI-assisted workflows, and web development. I enjoy building the whole path from backend logic to frontend interaction, then polishing the result until it feels usable.
+I'm a developer who likes turning everyday ideas into working tools. My Chinese nickname is 奥利给！ My projects often sit at the intersection of desktop software, automation, AI-assisted workflows, and web development. I enjoy building the whole path from backend logic to frontend interaction, then polishing the result until it feels usable.
 
 My recent focus is [TimeNotes](https://github.com/algfwq/TimeNotes), a local-first desktop note-taking app built with Wails3. It supports canvas editing, rich text, images, stickers, layers, multi-page documents, preview mode, and real-time collaboration through [TimeNotesServer](https://github.com/algfwq/TimeNotesServer).
 
@@ -47,6 +48,10 @@ I also explore AI and automation projects such as [QQ-Forward-Summary-Bot](https
 | [QQ-Forward-Summary-Bot](https://github.com/algfwq/QQ-Forward-Summary-Bot) | A NapCatQQ bot that recursively expands forwarded messages and summarizes text/images with an OpenAI-compatible API. | Go, AI API | ![QQ Forward Summary Bot stars](https://img.shields.io/github/stars/algfwq/QQ-Forward-Summary-Bot?style=flat-square&amp;logo=github) |
 | [ALGKFZBYQ](https://github.com/algfwq/ALGKFZBYQ) | A Tkinter-based editor/compiler experiment and one of my earlier developer-tool projects. | Python, Tkinter | ![ALGKFZBYQ stars](https://img.shields.io/github/stars/algfwq/ALGKFZBYQ?style=flat-square&amp;logo=github) |
 | [WebChat](https://github.com/algfwq/WebChat) | A chat/web communication experiment around backend services and real-time interaction. | Python, Django, WebSocket | ![WebChat stars](https://img.shields.io/github/stars/algfwq/WebChat?style=flat-square&amp;logo=github) |
+
+## Support
+
+- Afdian: [Support me / 欢迎打赏](https://afdian.com/a/algfwq)
 
 ## Contact
 
